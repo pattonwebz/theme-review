@@ -1,4 +1,4 @@
-== Screenshot ==
+=== Screenshot ===
 
 The theme screenshot should be a reasonable representation of what is possible with the theme. It should not be an image of only a company name or logo.
 
