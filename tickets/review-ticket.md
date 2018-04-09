@@ -8,8 +8,8 @@ I have reviewed your theme against the list of (requirements)[https://make.wordp
 
 During the review I found some issues that need to be looked at. In addition to looking directly at the code in your theme files I also used some plugins to help check certain items. I highly recommend you test your theme with these plugins to spot any blockers from being approved into the .org theme directory.
 
-- Theme Check - https://github.com/WPTRT/theme-sniffer/releases
-- Theme Sniffer - https://github.com/WPTRT/theme-sniffer/releases
+- Theme Check - https://en-gb.wordpress.org/plugins/theme-check/
+- Theme Sniffer - https://github.com/WPTRT/theme-sniffer/releases/
 
 == Required ==
 
